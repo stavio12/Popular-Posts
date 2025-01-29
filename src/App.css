@@ -1,0 +1,15 @@
+body {
+  position: relative;
+}
+
+.news-bg {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0.4780112728685224) 0%,
+    rgba(0, 0, 0, 0.5816527294511555) 0%
+  );
+}
+
+.page-item {
+  cursor: pointer;
+}
